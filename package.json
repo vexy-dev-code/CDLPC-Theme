@@ -35,6 +35,11 @@
         "label": "CDLPC - Ultra Red (Original)",
         "uiTheme": "vs-dark",
         "path": "./themes/ultrared-color-theme.json"
+      },
+      {
+        "label": "CDLPC - Special Theme - By Yago",
+        "uiTheme": "vs-dark",
+        "path": "./themes/special-theme.json"
       }
     ]
   }
