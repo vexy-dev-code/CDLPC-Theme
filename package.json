@@ -6,7 +6,7 @@
   "publisher": "vexy",
   "icon": "images/logo.png",
   "repository": {
-    "url": "https://github.com/rinckonobre/theme-default-dark-plus"
+    "url": "https://github.com/yVexy/CDLPC-Theme"
   },
   "engines": {
     "vscode": "^1.76.0"
@@ -17,17 +17,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Plus - Darker",
+        "label": "CDLPC - Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/darker-color-theme.json"
       },
       {
-        "label": "Dark Plus - Alt",
+        "label": "CDLPC - Alt",
         "uiTheme": "vs-dark",
         "path": "./themes/alt-color-theme.json"
       },
       {
-        "label": "Dark Plus - Magic",
+        "label": "CDLPC - Magic",
         "uiTheme": "vs-dark",
         "path": "./themes/magic-color-theme.json"
       }
