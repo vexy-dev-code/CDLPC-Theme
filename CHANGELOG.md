@@ -21,4 +21,12 @@
 
 ## [0.1.3]
 
+### Features
+
 - Added Ultra Red Theme (Original)
+
+## [0.1.4]
+
+### Features
+
+- Added Special Theme - Credits: Yago 3TIS
