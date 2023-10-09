@@ -30,3 +30,9 @@
 ### Features
 
 - Added Special Theme - Credits: Yago 3TIS
+
+## [0.2.0]
+
+### Updates
+
+- Removed Special Theme By Yago - Reason: A lot of bugs

@@ -2,7 +2,7 @@
   "name": "CDLPC-THEME",
   "displayName": "CDLPC Theme - By Daniel Rodrigues 3TIS",
   "description": "Tema default do vscode, mas melhor",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "publisher": "vexy",
   "icon": "images/logo.png",
   "repository": {
@@ -36,11 +36,6 @@
         "uiTheme": "vs-dark",
         "path": "./themes/ultrared-color-theme.json"
       },
-      {
-        "label": "CDLPC - Special Theme - By Yago",
-        "uiTheme": "vs-dark",
-        "path": "./themes/special-theme.json"
-      }
     ]
   }
 }
