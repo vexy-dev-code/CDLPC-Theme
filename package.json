@@ -30,6 +30,11 @@
         "label": "CDLPC - Magic",
         "uiTheme": "vs-dark",
         "path": "./themes/magic-color-theme.json"
+      },
+      {
+        "label": "CDLPC - Ultra Red (Original)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/original-color-theme.json"
       }
     ]
   }
