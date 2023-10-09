@@ -1,0 +1,36 @@
+{
+  "name": "CDLPC-THEME",
+  "displayName": "CDLPC Theme - By Daniel Rodrigues 3TIS",
+  "description": "Tema default do vscode, mas melhor",
+  "version": "0.1.1",
+  "publisher": "vexy",
+  "icon": "images/logo.png",
+  "repository": {
+    "url": "https://github.com/rinckonobre/theme-default-dark-plus"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Plus - Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darker-color-theme.json"
+      },
+      {
+        "label": "Dark Plus - Alt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/alt-color-theme.json"
+      },
+      {
+        "label": "Dark Plus - Magic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/magic-color-theme.json"
+      }
+    ]
+  }
+}
