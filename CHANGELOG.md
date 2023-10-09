@@ -1,7 +1,24 @@
 # Change Log
 
+## [0.1.1]
+
+- Initial release
+
+- Fixed incorrect colors in a template string
+- Fixed incorrect colors in markdown files
+- Fixed incorrect colors of regular expressions
+- Fixed incorret punctuation definition tag color
+-
 ## [0.1.2]
 
+- Removed unnecessary properties
+- Transparent colors in some menus
+-
 ### Features
 
-- Added alt ULTRA RED theme
+- Added alt color theme
+- Added magic color theme
+
+## [0.1.3]
+
+- Added Ultra Red Theme (Original)
