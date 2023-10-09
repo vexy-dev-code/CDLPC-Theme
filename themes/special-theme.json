@@ -14,7 +14,6 @@
 		"tab.inactiveBackground": "#1a1a1a20",
 		"statusBarItem.remoteBackground": "#212121",
 		"quickInput.background": "#121212c5",
-        "editor.backgroundImage": "../secret/images/asian.jpg",
 
 		"activityBar.border": "#5d5d5d30",
 		"titleBar.border": "#5d5d5d30",
@@ -240,5 +239,11 @@
 			"foreground": "#FFC66D",
 			"italic": true
 		},
+	},
+	"workbench.colorCustomizations": {
+		"editor.background": "#1a1a1a",
+		"editor.backgroundImage": "../secret/images/asian.jpg",
+		"editor.backgroundSize": "cover",
+		"editor.backgroundRepeat": "no-repeat"
 	}
 }
