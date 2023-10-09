@@ -14,7 +14,7 @@
 		"tab.inactiveBackground": "#1a1a1a20",
 		"statusBarItem.remoteBackground": "#55287a",
 		"quickInput.background": "#17111cc5",
-		
+
 		"activityBar.border": "#5d5d5d30",
 		"titleBar.border": "#5d5d5d30",
 		"sideBarSectionHeader.border": "#ffffff15",
@@ -22,7 +22,7 @@
 		"sideBar.border": "#5d5d5d30",
 
 		"statusBar.background": "#251434",
-		
+
 	},
 	"tokenColors": [
 		{
