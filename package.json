@@ -35,7 +35,7 @@
         "label": "CDLPC - Ultra Red (Original)",
         "uiTheme": "vs-dark",
         "path": "./themes/ultrared-color-theme.json"
-      },
+      }
     ]
   }
 }
